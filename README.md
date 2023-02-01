@@ -2,9 +2,9 @@
 
 ## Issue description
 
-When setting a custom CSS cursor in Safari, the image rendered look blurry on scaled screen resolutions.
+When setting a custom CSS cursor in Safari, the rendered image looks blurry on scaled screen resolutions.
 
-These are two photos of a MacBook Pro 13" M1 running macOS Ventura 13.2, on Safari Version 16.3 (18614.4.6.1.5).
+These are two photos of a MacBook Pro 13" M1 running **macOS Ventura 13.2**, on **Safari Version 16.3 (18614.4.6.1.5)**.
 
 Scaled screen ("Default" in System Settings):
 
@@ -14,7 +14,7 @@ Native resolution (2560 x 1600, enabled with [Display Menu](http://displaymenu.m
 
 ![](native.jpg)
 
-The code used for those images is on [index.html](index.html), and you can see it online at [https://bomberstudios.github.io/safari-css-cursor-bug/](https://bomberstudios.github.io/safari-css-cursor-bug/).
+Sample code is available on [index.html](index.html), and you can see it online at [https://bomberstudios.github.io/safari-css-cursor-bug/](https://bomberstudios.github.io/safari-css-cursor-bug/).
 
 ## Notes
 
