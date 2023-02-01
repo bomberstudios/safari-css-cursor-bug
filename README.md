@@ -14,4 +14,8 @@ Native resolution (2560 x 1600, enabled with [Display Menu](http://displaymenu.m
 
 ![](native.jpg)
 
-Open [this page](index.html) to see the problem.
+The code used for those images is on [index.html](index.html), and you can see it online at [https://bomberstudios.github.io/safari-css-cursor-bug/](https://bomberstudios.github.io/safari-css-cursor-bug/).
+
+## Notes
+
+The bug happens with both SVG and PNG files. It affects both the built-in screen, and external monitors.
